@@ -1,0 +1,10 @@
+D:\Duymhaps02717_Test\Duymhaps02717_Test\bin\Debug\Duymhaps02717_Test.exe.config
+D:\Duymhaps02717_Test\Duymhaps02717_Test\bin\Debug\Duymhaps02717_Test.exe
+D:\Duymhaps02717_Test\Duymhaps02717_Test\bin\Debug\Duymhaps02717_Test.pdb
+D:\Duymhaps02717_Test\Duymhaps02717_Test\bin\Debug\Duymhaps02717_Test.xml
+D:\Duymhaps02717_Test\Duymhaps02717_Test\obj\Debug\Duymhaps02717_Test.frmQuanLySach.resources
+D:\Duymhaps02717_Test\Duymhaps02717_Test\obj\Debug\Duymhaps02717_Test.Resources.resources
+D:\Duymhaps02717_Test\Duymhaps02717_Test\obj\Debug\Duymhaps02717_Test.vbproj.GenerateResource.Cache
+D:\Duymhaps02717_Test\Duymhaps02717_Test\obj\Debug\Duymhaps02717_Test.exe
+D:\Duymhaps02717_Test\Duymhaps02717_Test\obj\Debug\Duymhaps02717_Test.xml
+D:\Duymhaps02717_Test\Duymhaps02717_Test\obj\Debug\Duymhaps02717_Test.pdb
